@@ -1,0 +1,3 @@
+# 统一换行符，避免跨平台 diff 噪声
+* text=auto eol=lf
+*.md text eol=lf

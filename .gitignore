@@ -1,0 +1,17 @@
+# 本地回滚备份，不纳入版本库
+SKILL.v1.backup.md
+*.backup.md
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python / Node（本仓库无运行时依赖，预留）
+__pycache__/
+node_modules/
